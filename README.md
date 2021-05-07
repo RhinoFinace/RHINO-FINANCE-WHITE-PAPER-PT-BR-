@@ -15,7 +15,7 @@ CÓDIGO DE CONTRATO: 0x20f0ea71fc224126db53edc848f77d1c7b1f723c
 SITE: https://Rhinofinance.org
 
 LANÇAMENTO ANTI-BALEIA: Lançamento controlado, compra maxima de RHN 50.000 
-PROVEDOR DE LIQUIDEZ: tokens $RHN englobará um Ecossistema de Yielding Farming onde gerará recompenças para os provedores de liquidez.
+PROVEDOR DE LIQUIDEZ: tokens $RHN englobará um Ecossistema de Yielding Farming onde gerará recompensas para os provedores de liquidez.
 DeFI: O mundo das finanças sem bancos e bolsas de valores parece impossível, não é mesmo? Mas ele pode existir e é isso que as DeFi propõem. Com a DeFi, o mercado está sempre aberto, sem autoridades centralizadas que podem bloquear ou negar o acesso do indivíduo a algo.
 Alguns serviços que são passíveis de erro humano podem se tornar mais seguros, já que na DeFi eles estão inseridos em um código que é acessível a todos. É um processo mais democrático e acessível.
 QUEIMAS MANUAIS: As queimas manuais são um grande trunfo para aqueles que seguram seus tokens, serão mais 4 queimas programadas de 500.000 $RHN, diminuindo em 12.5% do fornecimento maximo.
