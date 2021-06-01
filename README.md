@@ -21,4 +21,4 @@ PROVEDOR DE LIQUIDEZ: O Token $RNF será usado principalmente para gerar liquide
 
 DeFI: Trata-se de finanças descentralizadas, é um conceito amplo que engloba toda tecnologia disruptiva que elimina a necessidade de intermediários em aplicações financeiras, fugindo dos bancos, seja você o dono do seu próprio dinheiro.
 
-QUEIMAS MANUAIS: São um mecanismo muito importante, tornando o Token $RNF mais escasso e valioso no mercado, segure seu RHN pois queimas planejadas irão acontecer.
+QUEIMAS MANUAIS: São um mecanismo muito importante, tornando o Token $RNF mais escasso e valioso no mercado, segure seu $RNF pois queimas planejadas irão acontecer.
