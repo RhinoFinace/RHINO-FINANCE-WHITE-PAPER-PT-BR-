@@ -4,7 +4,7 @@ PROVEDOR DE LIQUIDEZ, LANÇAMENTO ANTI-BALEIA, DEFI e QUEIMAS MANUAIS.
 Rhino Finance token, desenvolvido pensando na comunidade, para ser aceito em diversos setores da sociedade como forma de pagamento e provedor de liquidez, segura, DeFI e englobará um Ecossistema de Yielding Farming e DEX (Exchange descentralizada), seja bem vindo ao futuro das finanças.
 
 TOKENOMICS RHINO FINANCE  $RNF
-DATA DE LANÇAMENTO: EM BREVE
+DATA DE LANÇAMENTO: 05/06/2021 21:00 UTC
 NOME: Rhino Finance
 SIGLA: RNF
 FORNECIMENTO MÁXIMO: 20.000.000
