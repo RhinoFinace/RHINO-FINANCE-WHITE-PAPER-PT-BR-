@@ -13,7 +13,7 @@ DECIMALS: 18
 CONTRATO VERIFICADO: https://bscscan.com/token/0xc3ad775606bf26f8605d5c98e57b2555cdf4d8bd
 CÓDIGO DE CONTRATO: 0xc3ad775606bf26f8605d5c98e57b2555cdf4d8bd
 SITE: https://Rhinofinance.org
-DISTRIBUIÇÃO: 0xdf4f55e27ffae3574b65b30b71c4353efe928bc8 1% = 200.000 Desenvolvimento, Airdrops e Maketing, 0xb262affe9ae50ba1443a8058d7119183192763d2 1,25% = 250.000 Yield farming e exchange descentralizada(DEX), 0xcc8cf0eb5c0b1c01fdae5ed9339fa59297a7c63c 1% = 200.000 Projetos Sociais.
+DISTRIBUIÇÃO: 0xcc8cf0eb5c0b1c01fdae5ed9339fa59297a7c63c 1% = 200.000 Desenvolvimento, Airdrops e Maketing, 0xb262affe9ae50ba1443a8058d7119183192763d2 1,25% = 250.000 Yield farming e exchange descentralizada(DEX)
 
 LANÇAMENTO ANTI-BALEIA: Em vez de listar as todas moedas de uma vez, optamos pelo lançamento fracionádo, regulando assim a quantidade de quem compra e quem vende, sendo justo com todos.
 
